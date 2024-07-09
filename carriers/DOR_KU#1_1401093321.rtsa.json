@@ -2,8 +2,8 @@
     {
         "contact": "DOR_KU#1_1401093321.rtsa",
         "car_num": 1,
-        "frq_start": 11911.625,
-        "frq_end": 12153.525,
+        "frq_start": 12201.625,
+        "frq_end": 12443.525,
         "time_start": 1717058109.4515243,
         "time_end": 1717058122.5880685,
         "max_power": -75.8658447265625
@@ -11,8 +11,8 @@
     {
         "contact": "DOR_KU#1_1401093321.rtsa",
         "car_num": 2,
-        "frq_start": 11167.475,
-        "frq_end": 11403.225,
+        "frq_start": 11457.475,
+        "frq_end": 11693.225,
         "time_start": 1717058109.1913948,
         "time_end": 1717058123.3684573,
         "max_power": -73.85592651367188
